@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { mockJops } from "./DummyData";
+import { mockJops } from "./dummyData";
 
 function HomePaje() {
   const [formData, setFormData] = useState({
